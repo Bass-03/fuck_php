@@ -13,8 +13,9 @@ Ubuntu, different PHP versions installed
 
 ### Installing
 Get the file, source it.
-It takes a parameter to append the aliases to your zshrc.
+It takes a parameter to append the aliases to whatever file you want, the examples work with ~/.zshrc.
 
+You can source ~/.zshrc if you want.
 
 #### with curl
 
